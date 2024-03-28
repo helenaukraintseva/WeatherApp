@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qV1hn2zlsTMPCCxIj8M6zdhjX/J2S696dKvuHglJVJ7CVaVzdSmfhhA2jH3u8Yz3+a1Bcz+t2pEmVmWwstRXvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

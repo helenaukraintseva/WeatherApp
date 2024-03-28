@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeatherApp.MainWeatherPage"
+             BackgroundImageSource="background.jpg">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Прогноз погоды" HorizontalOptions="Center" FontSize="18"></Label>
+            <Label x:Name="cityLabel" Text="Текущий город: Москва" HorizontalOptions="Center" FontSize="14"></Label>
+            <Image Source="sun.png" HorizontalOptions="Center" HeightRequest="150"
+                   WidthRequest="150" Margin="0,50,0,0"></Image>
+            <Label x:Name="weatherLabel" HorizontalOptions="Center" Text="Туман"> </Label>
+            <Label x:Name="tempLabel" FontSize="25" HorizontalOptions="Center" Text="-3C"></Label>
+            <Label x:Name="windSpeedLabel" HorizontalOptions="Center" Text="Скорость ветра 3 м/c"></Label>
+            <Label x:Name="humindityLabel" HorizontalOptions="Center" Text="Влажность 15"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

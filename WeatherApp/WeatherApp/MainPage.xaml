@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeatherApp.MainPage"
+             BackgroundImageSource="background.jpg">
+
+    <StackLayout VerticalOptions="Center">
+        <Label HorizontalOptions="Center" FontSize="25" Text="Введите город"></Label>
+        <Entry x:Name="cityEntry" HorizontalOptions="Center" WidthRequest="200" FontSize="22" Text="Москва"></Entry>
+        <Button
+            x:Name="findCityBtn"
+            Clicked="findCityBtn_Clicked"
+            CornerRadius="4"
+            BackgroundColor="LightBlue"
+            Text="Узнать погоду"
+            WidthRequest="200" 
+            HorizontalOptions="Center"></Button>
+    </StackLayout>
+
+</ContentPage>
