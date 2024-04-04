@@ -15,6 +15,7 @@
             Text="Узнать погоду"
             WidthRequest="200" 
             HorizontalOptions="Center"></Button>
+        
     </StackLayout>
 
 </ContentPage>

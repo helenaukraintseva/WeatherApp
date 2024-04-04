@@ -4,10 +4,7 @@ using System.Text;
 
 namespace WeatherApp
 {
-    internal class Weather
-    {
 
-    }
     // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
     public class Condition
     {

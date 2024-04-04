@@ -2,12 +2,14 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="WeatherApp.MainWeatherPage"
+             x:Name="background"
              BackgroundImageSource="background.jpg">
     <ContentPage.Content>
         <StackLayout>
             <Label Text="Прогноз погоды" HorizontalOptions="Center" FontSize="18"></Label>
             <Label x:Name="cityLabel" Text="Текущий город: Москва" HorizontalOptions="Center" FontSize="14"></Label>
-            <Image Source="sun.png" HorizontalOptions="Center" HeightRequest="150"
+            <Label x:Name="localTime" Text="21:00" HorizontalOptions="Center" FontSize="14"></Label>
+            <Image x:Name="weatherPicture"  Source="sun.png" HorizontalOptions="Center" HeightRequest="150"
                    WidthRequest="150" Margin="0,50,0,0"></Image>
             <Label x:Name="weatherLabel" HorizontalOptions="Center" Text="Туман"> </Label>
             <Label x:Name="tempLabel" FontSize="25" HorizontalOptions="Center" Text="-3C"></Label>

@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {}
+    "/Users/elena/Downloads/WeatherApp/WeatherApp/WeatherApp/WeatherApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
+    "/Users/elena/Downloads/WeatherApp/WeatherApp/WeatherApp/WeatherApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+        "projectUniqueName": "/Users/elena/Downloads/WeatherApp/WeatherApp/WeatherApp/WeatherApp.csproj",
         "projectName": "WeatherApp",
-        "projectPath": "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
-        "packagesPath": "C:\\Users\\omen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\obj\\",
+        "projectPath": "/Users/elena/Downloads/WeatherApp/WeatherApp/WeatherApp/WeatherApp.csproj",
+        "packagesPath": "/Users/elena/.nuget/packages/",
+        "outputPath": "/Users/elena/Downloads/WeatherApp/WeatherApp/WeatherApp/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\omen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/elena/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +33,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,6 +44,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
@@ -76,7 +69,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
         }
       }
     }

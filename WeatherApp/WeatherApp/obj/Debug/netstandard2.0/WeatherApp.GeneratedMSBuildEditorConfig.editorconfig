@@ -1,5 +1,3 @@
 is_global = true
 build_property.RootNamespace = WeatherApp
-build_property.ProjectDir = C:\Users\omen\Downloads\Telegram Desktop\WeatherApp\WeatherApp\WeatherApp\WeatherApp\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = /Users/elena/Documents/GitHub/WeatherApp/WeatherApp/WeatherApp/

@@ -638,3 +638,6 @@ C:\Users\Igor\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\13
 C:\Users\Igor\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\Igor\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\130\res\drawable\background.jpg
 C:\Users\Igor\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\130\res\drawable\sun.png
+C:\Users\Igor\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\130\android\assets\Newtonsoft.Json.dll
+C:\Users\Igor\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\130\res\drawable\nightimage.jpg
+C:\Users\Igor\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\130\res\drawable\sunimage.jpg

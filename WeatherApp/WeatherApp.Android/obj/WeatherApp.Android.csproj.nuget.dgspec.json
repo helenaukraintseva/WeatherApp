@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj": {}
+    "C:\\Users\\Igor\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj": {
+    "C:\\Users\\Igor\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Igor\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
         "projectName": "WeatherApp.Android",
-        "projectPath": "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
-        "packagesPath": "C:\\Users\\omen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.Android\\obj\\",
+        "projectPath": "C:\\Users\\Igor\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\omen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
-                "projectPath": "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
+              "C:\\Users\\Igor\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
+                "projectPath": "C:\\Users\\Igor\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
               }
             }
           }
@@ -59,20 +59,20 @@
         }
       }
     },
-    "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
+    "C:\\Users\\Igor\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+        "projectUniqueName": "C:\\Users\\Igor\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
         "projectName": "WeatherApp",
-        "projectPath": "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
-        "packagesPath": "C:\\Users\\omen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omen\\Downloads\\Telegram Desktop\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\obj\\",
+        "projectPath": "C:\\Users\\Igor\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\omen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -110,6 +110,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
